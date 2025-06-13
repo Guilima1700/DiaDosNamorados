@@ -7,40 +7,40 @@ import { Calendar, MapPin, Gift, Camera, Music, Utensils } from "lucide-react"
 // Substitua estes dados pelos momentos importantes do relacionamento
 const timelineEvents = [
   {
-    date: "27 de Abril de 2024",
-    title: "Primeira vez que nos conhecemos",
+    date: "Aprox.14 de Dezembro de 2022",
+    title: "Aconteceu o nosso primeiro beijo",
     description:
-      "Aniversario de um amigo nosso em comum, foi tipo amor a primeira vista, nunca irei esquecer desse dia",
+      "Chegamos da igreja e ficamos na praça...Um dos melhores dias da minha vida.",
     icon: <MapPin />,
   },
   {
-    date: "04 de maio de 2024",
-    title: "Nosso primeiro beijo",
-    description: "Sob as estrelas, naquela noite perfeita que nunca vou esquecer.",
+    date: "17 de Dezembro de 2022",
+    title: "Nos assumimos para o Brasil namoro",
+    description: "Quando oficializamos/oficializei o nosso namoro! haha.",
     icon: <Calendar />,
   },
   {
-    date: "20 de Julho de 2024",
-    title: "Pedido de namoro",
-    description: "Quando oficializamos nosso amor no show de colo de Deus",
+    date: "01 de Janeiro de 2023",
+    title: "Passamos a virada do ano juntos",
+    description: "Quando vim conhecer sua família e passamos o ano novo juntos.",
     icon: <Gift />,
   },
   {
-    date: "10 de Outubro de 2024",
-    title: "Nossa primeira viagem",
-    description: "Aqueles dias em porto que foi simplesmente mágico",
+    date: "20 de Janeiro de 2023",
+    title: "Pedido de namoro",
+    description: "Aquele dia no qual nunca irei esquecer. Oficializamos com o seu sim!",
     icon: <Camera />,
   },
   {
-    date: "25 de Dezembro de 2024",
-    title: "Nosso primeiro Natal juntos",
-    description: "Aquele primeiro natal com sua familia que foi incrivel",
+    date: "12 de Junho de 2023",
+    title: "Nosso primeiro Dia dos Namorados",
+    description: "Aquele buque de flores que te dei",
     icon: <Music />,
   },
   {
-    date: "12 de Junho de 2024",
-    title: "Nosso primeiro Dia dos Namorados",
-    description: "Aquele buque de flores que te dei",
+    date: "17 de Dezembro de 2023",
+    title: "Completamos um ano de muito amor",
+    description: "Finalmente usando aliança!",
     icon: <Utensils />,
   },
 ]

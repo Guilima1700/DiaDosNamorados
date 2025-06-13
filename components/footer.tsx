@@ -19,7 +19,7 @@ export default function Footer() {
             <Heart className="h-6 w-6 sm:h-8 sm:w-8 text-pink-500 fill-pink-500" />
           </div>
           <p className="font-dancing text-xl sm:text-2xl text-pink-600 mb-2">Feliz Dia dos Namorados!</p>
-          <p className="font-montserrat text-pink-700 text-sm sm:text-base">Com todo meu amor, Kaue</p>
+          <p className="font-montserrat text-pink-700 text-sm sm:text-base">Com todo meu amor, Seu Bruce</p>
         </motion.div>
       </div>
     </footer>

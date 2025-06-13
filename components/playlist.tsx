@@ -10,39 +10,39 @@ import { useState } from "react"
 // Substitua com suas músicas favoritas
 const songs = [
   {
-    title: "Good Vibe",
-    artist: "Caio Luccas e Filipe Ret",
-    cover: "/images/couple-sunset.jpg",
+    title: "The Only Exception",
+    artist: "Paramore",
+    cover: "/images/img3.jpeg",
   },
   {
-    title: "Tudo o que eu faço",
-    artist: "Caio Luccas",
-    cover: "/images/couple-sunset.jpg",
+    title: "Poesia Acústica 2",
+    artist: "Delacruz I Maria I Ducon I Luiz Lins I Diomedes I Bk' I Kayuá",
+    cover: "/images/img3.jpeg",
   },
   {
-    title: "Logo eu",
-    artist: "Caio Luccas",
-    cover: "/images/couple-sunset.jpg",
+    title: "Se sinta assim (também)",
+    artist: "Lulu Silvério",
+    cover: "/images/img3.jpeg",
   },
   {
-    title: "Diz Pra mim",
-    artist: "Boaventura",
-    cover: "/images/couple-sunset.jpg",
+    title: "Um Amor Puro",
+    artist: "Djavan",
+    cover: "/images/img3.jpeg",
   },
   {
-    title: "Close Friends",
-    artist: "Caio Luccas",
-    cover: "/images/couple-sunset.jpg",
+    title: "Lara",
+    artist: "Henry Freitas",
+    cover: "/images/img3.jpeg",
   },
 ]
 
 // Links do YouTube para as músicas
 const youtubeLinks = [
-  "E4J0bFa4d0U", // Good Vibe
-  "OS23TZIPCLA", // Tudo o que eu faço
-  "Laz0wVM7byI", // Logo eu
-  "Es89NQLxByI", // Diz Pra mim
-  "01K5jOP0gdg", // Close Friends
+  "nXjhSMWBE30", 
+  "bD6ifecX6rs",
+  "_8gIdbesUxI",
+  "Af7ieNv0wXY",
+  "oRVo4XppzP0",
 ]
 
 export default function Playlist() {

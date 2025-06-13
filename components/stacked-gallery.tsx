@@ -9,39 +9,33 @@ import { Heart, RotateCcw } from "lucide-react"
 const stackedPhotos = [
   {
     id: 1,
-    src: "/images/casal-espelho.jpg",
-    alt: "Selfie no espelho",
-    caption: "Nosso momento especial no espelho",
-  },
-  {
-    id: 2,
-    src: "/images/por-do-sol.jpg",
-    alt: "Pôr do sol romântico",
-    caption: "Aquele pôr do sol inesquecível",
-  },
-  {
-    id: 3,
-    src: "/images/primeiro-ano-novo.jpg",
-    alt: "Primeiro Ano Novo juntos",
+    src: "/images/anonew.jpeg",
+    alt: "Primeiro ano novo juntos",
     caption: "Nosso primeiro Ano Novo juntos",
   },
   {
+    id: 2,
+    src: "/images/lov.jpeg",
+    alt: "Primeiro carnaval",
+    caption: "Primeiro carnaval (Combinadinhos)",
+  },
+  {
+    id: 3,
+    src: "/images/img3.jpeg",
+    alt: "Nos conhecendo",
+    caption: "O grande início do que estava por vir",
+  },
+  {
     id: 4,
-    src: "/images/primeiro-natal.jpg",
-    alt: "Primeiro Natal juntos",
-    caption: "Nosso primeiro Natal juntos",
+    src: "/images/img4.jpeg",
+    alt: "Pedido de namoro",
+    caption: "Pedido oficial de namoro",
   },
   {
     id: 5,
-    src: "/images/primeira-vez-conhecemos.jpg",
-    alt: "Primeira vez que nos conhecemos",
-    caption: "A primeira vez que nos conhecemos",
-  },
-  {
-    id: 6,
-    src: "/images/couple-sunset.jpg",
-    alt: "Nós na praia",
-    caption: "Momentos especiais na praia",
+    src: "/images/img2.jpeg",
+    alt: "Festinha juntos (Eu todo apaixonado)",
+    caption: "Festinha juntos (Eu todo apaixonado)",
   },
 ]
 

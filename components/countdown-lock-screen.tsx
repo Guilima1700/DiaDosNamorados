@@ -162,7 +162,7 @@ export default function CountdownLockScreen() {
             transition={{ delay: 0.5 }}
             className="text-white/90 font-montserrat text-base sm:text-lg mb-8 leading-relaxed"
           >
-            Seu namorado kaue lindo está preparando uma surpresa especial para o Dia dos Namorados. Aguarde!
+            Seu namorado Guilherme lindo está preparando uma surpresa especial para o Dia dos Namorados. Aguarde!
           </motion.p>
 
           <div className="grid grid-cols-4 gap-2 sm:gap-4 mb-8">
@@ -185,7 +185,7 @@ export default function CountdownLockScreen() {
 
       {/* Assinatura */}
       <div className="absolute bottom-6 text-center w-full text-white/50 font-montserrat text-sm">
-        <p>Com muito amor, Kaue ❤️</p>
+        <p>Com muito amor, Guigui ❤️</p>
       </div>
     </div>
   )

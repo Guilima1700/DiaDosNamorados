@@ -12,17 +12,18 @@ export default function Message() {
 
   // Substitua com sua mensagem especial
   const specialMessage = `Meu amor,
+  Hoje é um daqueles dias que a gente para pra sentir mais forte o que vive todo dia... e eu quero te dizer com todas as letras: eu nunca imaginei ser tão feliz assim, nem nos meus melhores sonhos.
 
-Desde que você entrou na minha vida, tudo ganhou mais cor, mais sentido, mais amor.
+Em um mundo tão confuso, onde tudo muda o tempo todo, encontrar uma certeza é raro. Mas eu encontrei a minha. E ela tem nome, sorriso, jeitinho único... e é você. 💖
 
-Seu sorriso ilumina meus dias, seu carinho me acalma, e seu jeito me faz querer ser alguém melhor todos os dias. Você é minha paz no caos, meu abrigo nos momentos difíceis, e minha alegria em cada detalhe.
+Você é a pessoa com quem quero dividir tudo: cada momento bom, cada desafio, cada vitória e até os perrengues. Porque com você, até o caos vira conforto.
 
-Obrigado por estar comigo, por me apoiar, por dividir seus sonhos comigo e transformar os meus em realidade só por estar ao meu lado. Cada momento com você vira uma lembrança especial, e cada dia ao seu lado é uma nova chance de te amar mais.
+Já são dois anos de uma história cheia de sentimentos intensos, aprendizados, risadas, superações e muito, muito amor. A gente sabe o que viveu. Só a gente sabe. E isso é o mais bonito.
 
-Você é minha namorada, minha parceira, minha melhor amiga, e o grande amor da minha vida.
+Sei que amor não é o único ingrediente pra dar certo, mas com a nossa conexão, respeito, entrega e carinho, a gente tem tudo o que precisa. De verdade. ✨
 
-Te amo mais do que palavras conseguem explicar.
-Pra sempre nós. 💖`
+Tô indo pra você agora, com o coração batendo forte e cheio de gratidão pelos dois anos mais lindos da minha vida. Te amo infinitamente, minha princesa. Você é o meu lar, meu mundo, meu sempre. 💗
+  `
 
   const handleClick = () => {
     setShowMessage(true)

@@ -15,8 +15,8 @@ export default function CalendarCounter() {
   const [showModal, setShowModal] = useState(false)
   const [timeElapsed, setTimeElapsed] = useState<TimeLeft>({ days: 0, hours: 0, minutes: 0, seconds: 0 })
 
-  // Data de início do relacionamento: 20 de julho de 2024
-  const startDate = new Date("2024-07-20T00:00:00")
+  // Data de início do relacionamento: 17 de dezembro de 2022
+  const startDate = new Date("2022-12-17T00:00:00")
 
   const calculateTimeElapsed = () => {
     const now = new Date()
@@ -35,7 +35,6 @@ export default function CalendarCounter() {
       setTimeElapsed(calculateTimeElapsed())
     }, 1000)
 
-    // Calcular imediatamente na primeira renderização
     setTimeElapsed(calculateTimeElapsed())
 
     return () => clearInterval(timer)
@@ -98,7 +97,7 @@ export default function CalendarCounter() {
                   </div>
                 </div>
                 <h2 className="font-dancing text-2xl sm:text-3xl font-bold text-pink-600 mb-2">Nosso Tempo Juntos</h2>
-                <p className="text-pink-700 font-montserrat text-sm sm:text-base">Desde 20 de Julho de 2024</p>
+                <p className="text-pink-700 font-montserrat text-sm sm:text-base">Desde 17 de Dezembro de 2022</p>
               </div>
 
               {/* Contador */}

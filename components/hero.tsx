@@ -21,7 +21,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="font-dancing text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-pink-600 mb-4 sm:mb-6 leading-tight"
         >
-          Feliz Dia dos Namorados
+          Feliz Dia dos Namorados minha larinha
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
